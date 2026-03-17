@@ -1973,6 +1973,7 @@ Interact with Git repositories and version control platforms. Enables repository
 > More frameworks, utilities, and other developer tools are available at https://github.com/punkpeye/awesome-mcp-devtools
 > - [Nyrok/flompt](https://github.com/Nyrok/flompt) [![flompt MCP server](https://glama.ai/mcp/servers/@nyrok/flompt/badges/score.svg)](https://glama.ai/mcp/servers/@nyrok/flompt) 🐍 ☁️ - Visual AI prompt builder MCP server. Decompose any prompt into 12 semantic blocks and compile to Claude-optimized XML. Tools: `decompose_prompt`, `compile_prompt`. Setup: `claude mcp add flompt https://flompt.dev/mcp/`
 
+- [0-co/agent-friend](https://github.com/0-co/agent-friend) 🐍 🏠 🐧 - Universal AI tool adapter. `@tool` decorator exports Python functions to OpenAI, Claude, Gemini, MCP, and JSON Schema. 51 built-in tools with token estimation. Ships an MCP stdio server with 314 tools. 2515 tests, zero dependencies.
 - [Epistates/TurboMCP](https://github.com/Epistates/turbomcp) 🦀 - TurboMCP SDK: Enterprise MCP SDK in Rust
 - [FastMCP](https://github.com/jlowin/fastmcp) 🐍 - A high-level framework for building MCP servers in Python
 - [FastMCP](https://github.com/punkpeye/fastmcp) 📇 - A high-level framework for building MCP servers in TypeScript
